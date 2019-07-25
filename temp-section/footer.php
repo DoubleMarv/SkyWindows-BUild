@@ -7,6 +7,7 @@
 					<img src="inc/img/logo.png">
 				</figure>
 				<address>
+					Some change
 					Unit 1706, Euro Business Park,<br>
 					Little Island, Co. Cork, Ireland.<br>
 					T45 F650
